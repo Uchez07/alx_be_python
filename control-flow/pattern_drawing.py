@@ -1,4 +1,4 @@
-positive_integer = int(input(" Enter the size of the pattern:"))
+positive_integer = int(input("Enter the size of the pattern:"))
 
 row = 0
 
